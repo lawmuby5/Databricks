@@ -26,7 +26,7 @@ Challenges:
 
 Frequent downtime
 
-High cloud storage costs (~£300,000 annually)
+High cloud storage costs ( ~ £100,000 annually)
 
 Knowledge gaps across teams
 
