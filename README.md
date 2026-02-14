@@ -69,26 +69,22 @@ Implemented job orchestration with scheduled frequencies
 Utilized Databricks AI Genie for AI-powered troubleshooting & query validation
 
 🧱 Data Pipeline Design
+
 Bronze Layer
 
 Raw ingestion
-
 Structured and semi-structured data storage
 
 Silver Layer
 
 Data cleaning & transformation
-
 Reusable datasets
-
 Schema enforcement
 
 Gold Layer
 
 Business-ready datasets
-
 Stakeholder-focused analytics
-
 Optimized for dashboards & reporting
 
 📊 Results & Impact
@@ -104,17 +100,10 @@ Optimized for dashboards & reporting
 Stakeholders praised the interactive dashboard and AI-powered validation layer.
 
 💡 Key Skills Demonstrated
-
 Data Platform Modernization
-
 Cloud Cost Optimization
-
 PySpark & SQL Engineering
-
 Medallion Architecture
-
 AI-assisted Data Validation
-
 Stakeholder Communication
-
 Data Governance & Automation
